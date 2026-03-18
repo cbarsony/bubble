@@ -8,7 +8,7 @@ This file is the source of truth for what needs to be done. Each task is a singl
 
 ## Phase 0: Project Setup
 
-- [ ] **T001** — Initialize npm project with `package.json` (ES modules, scripts for dev/start/test)
+- [x] **T001** — Initialize npm project with `package.json` (ES modules, scripts for dev/start/test)
 - [ ] **T002** — Create folder structure (`client/`, `server/`, `tests/`, `docs/`)
 - [ ] **T003** — Set up Express server skeleton (`server/index.js`, `server/app.js`) that serves `client/` as static files
 - [ ] **T004** — Create minimal `client/index.html` with a "Hello Bubble" heading to verify static serving

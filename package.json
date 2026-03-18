@@ -1,0 +1,16 @@
+{
+  "name": "bubble",
+  "version": "1.0.0",
+  "description": "Bulk image processing web application",
+  "type": "module",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
